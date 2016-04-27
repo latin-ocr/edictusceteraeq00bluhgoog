@@ -1,0 +1,67 @@
+6 EDICTVS ROTHARl.
+
+105. 00 0000 occiso.
+
+106. 00 aure abscisa.
+
+107. 00 labro absciso.
+
+108. 00 00010 00000000.
+
+109. 00 brachio 01 coxa transiorata.
+110. 00 plagas que intra capso fiunt.
+111.Βο brachio uel copsa tibia rupta.
+112. 00 manu abscisa.
+
+113. 00 digitis manum.
+
+114. 00 secundo digito.
+
+115. 00 tercio digito.
+
+116. 00 quarto digito.
+
+117. 00 quinto digito.
+
+118. 00 pede rusticani absciso.
+11000 digitos pedum.
+
+120. 00 secundum digito.
+
+121. 00100010 digito.
+
+122. 00 quarto digito.
+
+123. 00 quinto digito.
+
+124. 00 seruo rusticano battudo.
+125. Si membrum sideratum fuerit.
+126. 00 omnibus plagis 001 feritis
+128. [sir] 00 eo qui plagas fecerit.
+128. 00 aldio occiso.
+
+129. 00 seruo minesteriale occiso.
+
+130. 00 seruo minesteriale in utero occiso.
+
+131. 00 seruo massario occiso.
+
+132. 00 00001 occiso.
+
+133. 00 seruo qui sub massari est occiso.
+
+134. 00 pastoribus occisis.
+
+135. 00 pecorio caprario seu armentario occiso.
+136. 00 infante massario occiso.
+
+137. 00 arbore commune inciso 01 in hominem occiderit.
+138. 00 000000 temperato.
+
+139. Si liber aut libera alii uenenum.
+
+140. 81 quis uenenum ad alium bibendum dederit.
+141. Si seruus 001 ancilla alii uenenum dederit.
+
+ 
+
